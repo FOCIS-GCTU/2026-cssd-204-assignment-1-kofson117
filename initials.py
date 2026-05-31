@@ -1,6 +1,6 @@
 # File: initials.py
 # Description: Prints my initials (CEN).
-# Assignment Number: Assignment Number: 1
+# Assignment Number: 1
 #
 # Name: Collins Etornam Kofi Nuworsu
 # STUDENT ID:  2425404288
